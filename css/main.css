@@ -1,0 +1,329 @@
+.lgo-img {
+	min-width: 60px;
+    min-height: 60px;
+}
+
+.navbar-custom .social-icon.light-social-icon li a {
+	width: 110%;
+}
+
+
+.formm {
+	margin-bottom: 15px;
+}
+
+.centerr {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ten-year {
+	font-size: 110%;
+	color: black;
+}
+
+/*
+@media (min-width: 1200px) {
+	#home {
+		height: 100vh;
+	}
+}
+*/
+
+@media (min-width: 1700px) {
+	.navbar-custom .social-icon {
+	margin: 0 -180px 0px 0px !important;
+	}
+}
+
+@media (min-width: 2000px) {
+	.navbar-custom .social-icon {
+	margin: 0 -229px 0px 0px !important;
+	}
+}
+
+@media (min-width: 2300px) {
+	.navbar-custom .social-icon {
+	margin: 0 -329px 0px 0px !important;
+	}
+}
+
+
+@media (min-width: 980px) and (max-width: 1240px) {
+	.navbar-custom .social-icon {
+	margin: 0 10px 0px 0px !important;
+	}
+}
+
+
+.mrg-1 {
+	margin-right: 20px !important;
+}
+
+.navbar-custom .social-icon {
+	margin: 0 -90px 0px 0px;
+}
+
+.h1-home {
+	font-size: 80px !important;
+	letter-spacing: 4px !important;
+	line-height: 82px !important;
+	font-weight: 800 !important;
+}
+
+.sub-title {
+    margin-left: 8px !important;
+    margin-bottom: -50px !important;
+}
+
+.dosvid {
+	margin-top: -15px !important;
+}
+
+.rothenberger {
+	color: #7D7D7D;
+	font-style: bold !important;
+}
+
+.rotn-img {
+	max-width: 80%;
+	max-height: 90% !important;
+}
+
+.counter-value {
+	font-size: 2.5em !important;
+}
+
+.btn-service {
+	margin-top: 20px !important;
+}
+
+#contact {
+	background-color: #f9fafd !important;
+	padding-bottom: 50px !important;
+}
+
+#cont2 {
+	background-color: #f9fafd !important;
+	margin-top: 0 !important;
+}
+
+.mrgn-0 {
+	margin-right: 0 !important;
+}
+
+#nah {
+	display: none !important;
+}
+
+.icon-plus {
+	max-width: 20% !important;
+	padding-bottom: 20px;
+}
+
+.korect {
+	margin-top: 0px; 
+	margin-bottom: 120px;
+	max-width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.no-otstup {
+	padding-top: 0px;
+}
+
+.price {
+	margin-top: 20px !important;
+	color: #7D7D7D !important;
+	font-size: 1.3em;
+}
+
+.otstup {
+	margin-bottom: 10px;
+}
+
+.mrgn-top-0 {
+	margin-top: 0 !important;
+}
+
+.g-one {
+	color: #7D7D7D !important;
+}
+
+.g-one:hover {
+	color: gray !important;
+}
+
+.img-sevices {
+	max-width: 60% !important;
+	border-radius: 5px;
+}
+
+.hfhf {
+	padding-top: 2.5em !important;
+}
+
+@media (min-width: 1000px) {
+	.fefff {
+		left: 50% !important;
+	}
+}
+
+/*
+
+.w {
+	color: white !important;
+}
+
+.wa {
+	color: white !important;
+}
+
+.wa:hover {
+	color: #4e555d !important;
+} */
+
+.big {
+	font-size: 2.2em !important;
+}
+
+@media (max-width: 800px) {
+	.sub-title {
+	    margin-left: 4px !important;
+	    margin-bottom: -30px !important;
+	}
+
+	.h1-home {
+		line-height: normal !important;
+	}
+
+	.display {
+		display: none !important;
+	}
+
+	.efe {
+		margin-top: 20px !important;
+	}
+	.cta-full .container-fluid .padding-less.img {
+		display: none;
+	}
+
+	.text-foot {
+		width: 70% !important;
+	}
+}
+
+
+@media (min-width: 1000px) {
+	#services {
+		padding-top: 35px !important;
+	}
+
+	#contact {
+		padding-bottom: 80px !important;
+	}
+}
+
+.bg-dark {
+	background-color: #262626 !important;
+}
+
+.item-height {
+	height: 300px !important;
+}
+
+#about {
+	z-index: 10 !important;
+}
+
+.hero-img {
+	z-index: 3 !important;
+}
+
+
+
+
+
+.section-title .titles .title.title-line:after {
+	display: none !important;
+}
+
+.section-title .titles .title.title-line:before {
+	display: none !important;
+}
+
+.section-title .titles span:before {
+	display: none !important;
+}
+
+.section-title .titles span:after {
+	display: none !important;
+}
+
+.blck {
+	color: black !important;
+}
+
+
+
+.dfs {
+	font-size: 130% !important;
+}
+
+.ffefff {
+	font-size: 90% !important;
+	text-align: center !important;
+	margin-top: 10px;
+}
+
+
+#resume {
+	margin-bottom: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+.cdcd {
+	margin-top: 25px !important;
+}
+
+
+
+.fefffffefds {
+	background-size: cover !important;
+}
+
+
+@media (min-width: 780px) {
+	.fefffffefds {
+		
+	}
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+	color: black !important;
+}
+
+
+.than {
+	width: 100%;
+  	min-height: 800px;
+}
+
+.fdfs {
+	padding-top: 50px !important;
+}
+
+.ccc {
+	text-align: center !important;
+}
+
+/*
+.btn-primary, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.focus, .btn-outline-primary:not(:disabled):not(.disabled):active, .nav-pills .nav-link.active, .pagination li a:hover, .pagination .active a, .social-icon li a:hover, .section-title .titles span:before, .section-title .titles span:after, .owl-theme .owl-controls .owl-page span {
+	display: none !important;
+}
+
+*/
